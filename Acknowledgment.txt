@@ -1,0 +1,6 @@
+Acknowledgement
+
+The dataset and methodology used in this project are based on the book:
+"Six Sigma: A Case Study Approach Using Minitab" by Timothy D. Blackburn.
+
+This project is created solely for educational and demonstration purposes.
